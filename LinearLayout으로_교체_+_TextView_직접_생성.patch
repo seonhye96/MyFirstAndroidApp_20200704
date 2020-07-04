@@ -1,0 +1,32 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1593830982131)
++++ .idea/vcs.xml	(date 1593830982131)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_main.xml	(revision f19d87c02ffe8a87ecc81dfa12b453a34be2dd3a)
++++ app/src/main/res/layout/activity_main.xml	(date 1593831008982)
+@@ -9,7 +9,7 @@
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+-        android:text="안녕하세요" />
++        android:text="안녕하세요"  />
+ 
+ 
+ </LinearLayout>
+\ No newline at end of file
